@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0cf4f20b-af46-4b22-8eb9-9ff305aa300c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/numberToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/numberToString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="numberToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -54,6 +56,8 @@
       <updated>1581609180126</updated>
       <workItem from="1581609183998" duration="3152000" />
       <workItem from="1581642431659" duration="1995000" />
+      <workItem from="1581653649254" duration="170000" />
+      <workItem from="1581672093443" duration="1373000" />
     </task>
     <servers />
   </component>
@@ -61,26 +65,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1321" height="181" key="GridCell.Tab.0.bottom" timestamp="1581643053204">
+    <state width="1321" height="181" key="GridCell.Tab.0.bottom" timestamp="1581676679649">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1321" height="181" key="GridCell.Tab.0.bottom/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1581612345553" />
-    <state width="1321" height="181" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581643053204" />
-    <state width="1321" height="181" key="GridCell.Tab.0.center" timestamp="1581643053204">
+    <state width="1321" height="181" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581676679649" />
+    <state width="1321" height="181" key="GridCell.Tab.0.center" timestamp="1581676679649">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1321" height="181" key="GridCell.Tab.0.center/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1581612345553" />
-    <state width="1321" height="181" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1581643053204" />
-    <state width="1321" height="181" key="GridCell.Tab.0.left" timestamp="1581643053204">
+    <state width="1321" height="181" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1581676679649" />
+    <state width="1321" height="181" key="GridCell.Tab.0.left" timestamp="1581676679649">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1321" height="181" key="GridCell.Tab.0.left/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1581612345553" />
-    <state width="1321" height="181" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1581643053204" />
-    <state width="1321" height="181" key="GridCell.Tab.0.right" timestamp="1581643053204">
+    <state width="1321" height="181" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1581676679649" />
+    <state width="1321" height="181" key="GridCell.Tab.0.right" timestamp="1581676679649">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1321" height="181" key="GridCell.Tab.0.right/0.0.1366.738/-1360.0.1360.738@0.0.1366.738" timestamp="1581612345553" />
-    <state width="1321" height="181" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1581643053204" />
+    <state width="1321" height="181" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1581676679649" />
     <state x="64" y="0" key="new project wizard" timestamp="1581646194160">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

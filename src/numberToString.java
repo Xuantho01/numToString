@@ -7,7 +7,7 @@ public class numberToString {
         String str1[] = {"","","twenty","thirty","Forty","fifty","sixty","seventy","eighty","ninety"};
         String str2[] = {"","one","two","three","four","five","six","seven","eight","nine","ten","eleven",
         "twelve","thirteen","fourteen","fifteen","sixteen","nineteen"};
-        System.out.println("Enter any number between 1 to 99: ");
+        System.out.println("Enter any number between 1 to 999: ");
 
         num = input.nextInt();
 
